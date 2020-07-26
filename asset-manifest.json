@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://KishoreKumarb310.github.io/iLearn/static/css/main.16da4099.chunk.css",
-    "main.js": "https://KishoreKumarb310.github.io/iLearn/static/js/main.e65f831c.chunk.js",
-    "main.js.map": "https://KishoreKumarb310.github.io/iLearn/static/js/main.e65f831c.chunk.js.map",
-    "runtime-main.js": "https://KishoreKumarb310.github.io/iLearn/static/js/runtime-main.e68655d1.js",
-    "runtime-main.js.map": "https://KishoreKumarb310.github.io/iLearn/static/js/runtime-main.e68655d1.js.map",
-    "static/js/2.4e12dd4e.chunk.js": "https://KishoreKumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js",
-    "static/js/2.4e12dd4e.chunk.js.map": "https://KishoreKumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js.map",
-    "index.html": "https://KishoreKumarb310.github.io/iLearn/index.html",
-    "precache-manifest.cf37bfd4bd239dfb8fc2e63f29f0436d.js": "https://KishoreKumarb310.github.io/iLearn/precache-manifest.cf37bfd4bd239dfb8fc2e63f29f0436d.js",
-    "service-worker.js": "https://KishoreKumarb310.github.io/iLearn/service-worker.js",
-    "static/css/main.16da4099.chunk.css.map": "https://KishoreKumarb310.github.io/iLearn/static/css/main.16da4099.chunk.css.map",
-    "static/js/2.4e12dd4e.chunk.js.LICENSE.txt": "https://KishoreKumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js.LICENSE.txt"
+    "main.css": "https://KishoreKumarb310.github.io/i-Learn-UI/static/css/main.16da4099.chunk.css",
+    "main.js": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/main.83bdc783.chunk.js",
+    "main.js.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/main.83bdc783.chunk.js.map",
+    "runtime-main.js": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/runtime-main.f3ad7a3f.js",
+    "runtime-main.js.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/runtime-main.f3ad7a3f.js.map",
+    "static/js/2.4e12dd4e.chunk.js": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.4e12dd4e.chunk.js",
+    "static/js/2.4e12dd4e.chunk.js.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.4e12dd4e.chunk.js.map",
+    "index.html": "https://KishoreKumarb310.github.io/i-Learn-UI/index.html",
+    "precache-manifest.928f8d684788703c98efef746c010f60.js": "https://KishoreKumarb310.github.io/i-Learn-UI/precache-manifest.928f8d684788703c98efef746c010f60.js",
+    "service-worker.js": "https://KishoreKumarb310.github.io/i-Learn-UI/service-worker.js",
+    "static/css/main.16da4099.chunk.css.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/css/main.16da4099.chunk.css.map",
+    "static/js/2.4e12dd4e.chunk.js.LICENSE.txt": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.4e12dd4e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e68655d1.js",
+    "static/js/runtime-main.f3ad7a3f.js",
     "static/js/2.4e12dd4e.chunk.js",
     "static/css/main.16da4099.chunk.css",
-    "static/js/main.e65f831c.chunk.js"
+    "static/js/main.83bdc783.chunk.js"
   ]
 }
