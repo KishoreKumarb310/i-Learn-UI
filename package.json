@@ -1,4 +1,5 @@
 {
+  "homepage": "https://KishoreKumarb310.github.io/iLearn",
   "name": "i-learn",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "set PUBLIC_URL=https://kishorekumarb310.github.io/iLearn&&npm install&&npm run build",
+    "predeploy": "set PUBLIC_URL=https://KishoreKumarb310.github.io/iLearn&&npm install&&npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
