@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://kishorekumarb310.github.io/iLearn/static/js/main.b4d19e58.chunk.js",
+    "main.js.map": "https://kishorekumarb310.github.io/iLearn/static/js/main.b4d19e58.chunk.js.map",
+    "runtime-main.js": "https://kishorekumarb310.github.io/iLearn/static/js/runtime-main.10bbca5d.js",
+    "runtime-main.js.map": "https://kishorekumarb310.github.io/iLearn/static/js/runtime-main.10bbca5d.js.map",
+    "static/js/2.4e12dd4e.chunk.js": "https://kishorekumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js",
+    "static/js/2.4e12dd4e.chunk.js.map": "https://kishorekumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js.map",
+    "index.html": "https://kishorekumarb310.github.io/iLearn/index.html",
+    "precache-manifest.9b8dcd0362257ad2da82daaa7391f0bc.js": "https://kishorekumarb310.github.io/iLearn/precache-manifest.9b8dcd0362257ad2da82daaa7391f0bc.js",
+    "service-worker.js": "https://kishorekumarb310.github.io/iLearn/service-worker.js",
+    "static/js/2.4e12dd4e.chunk.js.LICENSE.txt": "https://kishorekumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10bbca5d.js",
+    "static/js/2.4e12dd4e.chunk.js",
+    "static/js/main.b4d19e58.chunk.js"
+  ]
+}
