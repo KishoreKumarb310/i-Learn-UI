@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca5d82decd3a42b18ca7a40316e6394e",
+    "revision": "155dbe55f9980a83363bccd3404b6c2a",
     "url": "https://kishorekumarb310.github.io/iLearn/index.html"
+  },
+  {
+    "revision": "07c88b7f130014df795c",
+    "url": "https://kishorekumarb310.github.io/iLearn/static/css/main.16da4099.chunk.css"
   },
   {
     "revision": "018c22f4a47d0f710657",
@@ -12,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kishorekumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f71b4c4ef5727ffb2346",
-    "url": "https://kishorekumarb310.github.io/iLearn/static/js/main.b4d19e58.chunk.js"
+    "revision": "07c88b7f130014df795c",
+    "url": "https://kishorekumarb310.github.io/iLearn/static/js/main.e65f831c.chunk.js"
   },
   {
     "revision": "d0149ec5aadbb27dd5ce",

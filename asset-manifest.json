@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "https://kishorekumarb310.github.io/iLearn/static/js/main.b4d19e58.chunk.js",
-    "main.js.map": "https://kishorekumarb310.github.io/iLearn/static/js/main.b4d19e58.chunk.js.map",
+    "main.css": "https://kishorekumarb310.github.io/iLearn/static/css/main.16da4099.chunk.css",
+    "main.js": "https://kishorekumarb310.github.io/iLearn/static/js/main.e65f831c.chunk.js",
+    "main.js.map": "https://kishorekumarb310.github.io/iLearn/static/js/main.e65f831c.chunk.js.map",
     "runtime-main.js": "https://kishorekumarb310.github.io/iLearn/static/js/runtime-main.10bbca5d.js",
     "runtime-main.js.map": "https://kishorekumarb310.github.io/iLearn/static/js/runtime-main.10bbca5d.js.map",
     "static/js/2.4e12dd4e.chunk.js": "https://kishorekumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js",
     "static/js/2.4e12dd4e.chunk.js.map": "https://kishorekumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js.map",
     "index.html": "https://kishorekumarb310.github.io/iLearn/index.html",
-    "precache-manifest.9b8dcd0362257ad2da82daaa7391f0bc.js": "https://kishorekumarb310.github.io/iLearn/precache-manifest.9b8dcd0362257ad2da82daaa7391f0bc.js",
+    "precache-manifest.6fffa6747d0d3fe82fe4af9ee06d8257.js": "https://kishorekumarb310.github.io/iLearn/precache-manifest.6fffa6747d0d3fe82fe4af9ee06d8257.js",
     "service-worker.js": "https://kishorekumarb310.github.io/iLearn/service-worker.js",
+    "static/css/main.16da4099.chunk.css.map": "https://kishorekumarb310.github.io/iLearn/static/css/main.16da4099.chunk.css.map",
     "static/js/2.4e12dd4e.chunk.js.LICENSE.txt": "https://kishorekumarb310.github.io/iLearn/static/js/2.4e12dd4e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.10bbca5d.js",
     "static/js/2.4e12dd4e.chunk.js",
-    "static/js/main.b4d19e58.chunk.js"
+    "static/css/main.16da4099.chunk.css",
+    "static/js/main.e65f831c.chunk.js"
   ]
 }
