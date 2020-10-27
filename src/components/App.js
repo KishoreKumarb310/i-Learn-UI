@@ -1,17 +1,17 @@
 import React, {Component} from 'react';
 import '../styles/index.css';
-import book from '../resources/book.jpg';
+import Login from './Login';
+import Header from './common/Header';
+import Footer from './common/Footer';
 
 class App extends Component {
 
     render(){
         return(
             <div className="App">
-                <header className="title">i-Learn</header>
-                <div className="wrapper">
-                    <img src={book} alt="book-imahe" />
-                </div>
-                <footer className="footer">&copy;kiku_corps</footer>
+                <Header />
+                    <Login />
+                <Footer />
             </div>
         )
     }

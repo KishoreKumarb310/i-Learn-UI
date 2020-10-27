@@ -1,15 +1,31 @@
 body{
-    padding: 5%;
     text-align: center;
-    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
 }
 
 .App{
     
 }
 
+.header{
+    top: 0;
+    width: 100%;
+    height: 15%;
+    position: absolute;        
+    background: aquamarine;
+    color: #000;
+    margin-left: 0%;
+}
+
 .footer{
-    float: right;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    position: absolute;        
+    background: aquamarine;
+    padding: 10px 0;
+    color: #000;
 }
 
 .wrapper{
