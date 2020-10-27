@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "ClassRoom",
+        "href" : "/classRoom"
+    },
+    {
+        "name" : "StaffRoom",
+        "href" : "/classRoom"
+    },
+    {
+        "name" : "Library",
+        "href" : "/classRoom"
+    },
+    {
+        "name" : "Library",
+        "href" : "/classRoom"
+    },
+    {
+        "name" : "Library",
+        "href" : "/classRoom"
+    }
+]
