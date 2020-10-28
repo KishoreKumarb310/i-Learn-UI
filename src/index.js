@@ -8,7 +8,7 @@ import { createBrowserHistory } from 'history';
 ReactDOM.render(
     (
         <Router history = {browserHistory}> 
-            <Route path="/i-Learn-UI" component={App}>
+            <Route path="/" component={App}>
                 
             </Route>
         </Router>
