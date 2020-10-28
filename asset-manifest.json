@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://KishoreKumarb310.github.io/i-Learn-UI/static/css/main.514f9e17.chunk.css",
-    "main.js": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/main.df8bd6e0.chunk.js",
-    "main.js.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/main.df8bd6e0.chunk.js.map",
+    "main.js": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/main.99fb6b3d.chunk.js",
+    "main.js.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/main.99fb6b3d.chunk.js.map",
     "runtime-main.js": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/runtime-main.f3ad7a3f.js",
     "runtime-main.js.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/runtime-main.f3ad7a3f.js.map",
-    "static/js/2.e284b95e.chunk.js": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.e284b95e.chunk.js",
-    "static/js/2.e284b95e.chunk.js.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.e284b95e.chunk.js.map",
+    "static/js/2.4ac34d25.chunk.js": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.4ac34d25.chunk.js",
+    "static/js/2.4ac34d25.chunk.js.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.4ac34d25.chunk.js.map",
     "index.html": "https://KishoreKumarb310.github.io/i-Learn-UI/index.html",
-    "precache-manifest.35313a19ede41c6459f693a4147b750a.js": "https://KishoreKumarb310.github.io/i-Learn-UI/precache-manifest.35313a19ede41c6459f693a4147b750a.js",
+    "precache-manifest.e33cdc41d706f792a4d8a9047f4293a4.js": "https://KishoreKumarb310.github.io/i-Learn-UI/precache-manifest.e33cdc41d706f792a4d8a9047f4293a4.js",
     "service-worker.js": "https://KishoreKumarb310.github.io/i-Learn-UI/service-worker.js",
     "static/css/main.514f9e17.chunk.css.map": "https://KishoreKumarb310.github.io/i-Learn-UI/static/css/main.514f9e17.chunk.css.map",
-    "static/js/2.e284b95e.chunk.js.LICENSE.txt": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.e284b95e.chunk.js.LICENSE.txt",
+    "static/js/2.4ac34d25.chunk.js.LICENSE.txt": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.4ac34d25.chunk.js.LICENSE.txt",
     "static/media/iLearn.png": "https://KishoreKumarb310.github.io/i-Learn-UI/static/media/iLearn.30fa6485.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f3ad7a3f.js",
-    "static/js/2.e284b95e.chunk.js",
+    "static/js/2.4ac34d25.chunk.js",
     "static/css/main.514f9e17.chunk.css",
-    "static/js/main.df8bd6e0.chunk.js"
+    "static/js/main.99fb6b3d.chunk.js"
   ]
 }
