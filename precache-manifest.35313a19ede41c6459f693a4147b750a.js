@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e1165cb8a0988ca2597bad929592632",
+    "revision": "435d892130f4802d35bb78211290e5d9",
     "url": "https://KishoreKumarb310.github.io/i-Learn-UI/index.html"
   },
   {
-    "revision": "9dc2af0481dcb0642abf",
+    "revision": "6743ec8b07cc8dc46e8e",
     "url": "https://KishoreKumarb310.github.io/i-Learn-UI/static/css/main.514f9e17.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/2.e284b95e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dc2af0481dcb0642abf",
-    "url": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/main.ca6b5523.chunk.js"
+    "revision": "6743ec8b07cc8dc46e8e",
+    "url": "https://KishoreKumarb310.github.io/i-Learn-UI/static/js/main.df8bd6e0.chunk.js"
   },
   {
     "revision": "0f2b546bc9fb65f5e41b",
