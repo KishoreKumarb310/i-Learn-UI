@@ -5,13 +5,6 @@ import {Router, Route, browserHistory, Link, IndexRoute } from 'react-router';
 import { createBrowserHistory } from 'history';
 
 
-ReactDOM.render(
-    (
-        <Router history = {browserHistory}> 
-            <Route path="/" component={App}>
-                
-            </Route>
-        </Router>
-    ),
+ReactDOM.render(<App/>,
     document.getElementById('root')
 );
