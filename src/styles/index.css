@@ -46,9 +46,16 @@ body{
     margin: 15px;
     border-radius: 10px;
     box-shadow: 5px 10px 8px 10px #888888;
+    cursor: pointer;
 }
 
 .tileContainer{
     width: 90%;
     display: inline-flex;
+}
+
+.card:hover{
+    background-color: rgb(213, 241, 146);
+    width: 12rem;
+    height: 12rem;
 }

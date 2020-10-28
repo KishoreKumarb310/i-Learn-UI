@@ -7,7 +7,8 @@ class Header extends Component {
     render(){
         return (
             <div className="header">
-                    <img id = "logo" src={logo} alt="i-Learn"></img>  
+                    <img id = "logo" src={logo} alt="i-Learn"></img> 
+                    <span id = "userName">Welcome {this.props.userName}</span> 
             </div>
         )
     }

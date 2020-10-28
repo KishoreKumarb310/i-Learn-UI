@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Student from './Student';
 import Login from './Login';
+import Teacher from './Teacher';
 
 class Home extends Component {
 
@@ -16,8 +17,11 @@ class Home extends Component {
 
     getComponent(role){
         switch(role){
-            case "Student":
+            case "S":
                 return <Student/>;
+
+            case "T":
+                return <Teacher/>
 
             default:
                 return <Login/>;
